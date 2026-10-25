@@ -144,7 +144,8 @@ Model explainability:
 streamlit run model\_explainability.py
 
 ```
-
+app deploy:
+https://gopisrinidhi-customer-churn-prediction-app-lkhlwg.streamlit.app/
 
 
 \## Limitations
