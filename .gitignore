@@ -1,0 +1,9 @@
+
+venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+data/processed/
+data/WA_Fn-UseC_-Telco-Customer-Churn.csv
+models/*.joblib
