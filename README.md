@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 \# Customer Churn Prediction \& Retention Intelligence Platform
@@ -166,3 +167,6 @@ Predictions are estimates, not guarantees. Feature importance does not prove cau
 
 
 
+=======
+# Customer-Churn-Prediction
+>>>>>>> d9e1eb6f5f576611b46b81745c317f08ebfd46f6
